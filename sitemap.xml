@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://midnighter.github.io/nextflow-gotchas/</loc>
+         <lastmod>2022-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://midnighter.github.io/nextflow-gotchas/gotchas/combine-list/</loc>
+         <lastmod>2022-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://midnighter.github.io/nextflow-gotchas/gotchas/shallow-copy/</loc>
+         <lastmod>2022-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://midnighter.github.io/nextflow-gotchas/gotchas/shell-global-only/</loc>
+         <lastmod>2022-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://midnighter.github.io/nextflow-gotchas/gotchas/singleton-channel/</loc>
+         <lastmod>2022-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://midnighter.github.io/nextflow-gotchas/gotchas/variable-scope/</loc>
+         <lastmod>2022-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
